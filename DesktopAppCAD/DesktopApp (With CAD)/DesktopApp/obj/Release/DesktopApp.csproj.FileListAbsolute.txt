@@ -1,0 +1,9 @@
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\bin\Release\DesktopApp.exe.config
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\bin\Release\DesktopApp.exe
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\bin\Release\DesktopApp.pdb
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\obj\Release\DesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\obj\Release\DesktopApp.DesktopApp.resources
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\obj\Release\DesktopApp.Properties.Resources.resources
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\obj\Release\DesktopApp.csproj.GenerateResource.Cache
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\obj\Release\DesktopApp.exe
+C:\Users\Ivo\Desktop\DesktopApp\DesktopApp\obj\Release\DesktopApp.pdb
